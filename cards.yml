@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to Bank cards related local APIs "
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@bank.com"
+    name: "{cipher}2d72d5ecf09a281bc092c5bbaa5ec20443f0f319ab594832b4866622c5b0601eb39a5c1d84adc99aaeccab15d12002e9"
+    email: "{cipher}610cf3b6e04a2bea46007e1b3cf26416ec580790851401fb23b0355ea26e5056"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
