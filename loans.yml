@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to Bank loans related local APIs "
   contactDetails:
-    name: "Amaal Grega - Developer"
-    email: "amaal@bank.com"
+    name: "{cipher}6770bcf112f31e3f361d6198a36c2ed1f15b59f1b5d2cef0e525c713fc1dc1561a5805acbf28deaed1eca7cf002b44ca"
+    email: "{cipher}2e5ecef5853347b151e3f09adf9f42280412dd578259c79bcd6f9dc1df04371b"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
