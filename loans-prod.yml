@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loans related prod APIs "
+  message: "Welcome to Bank loans related production APIs "
   contactDetails:
     name: "{cipher}864ed5f5361d393c7d26853df70e2b903b139b1cfd346cbb55c1dcb70facab0ca2233346d3eb774ef0df7a49364e0134"
     email: "{cipher}51151bbf195d79e7315c58440f10d2fa7536ebcb1e9bd91912baa83736b4563e"
