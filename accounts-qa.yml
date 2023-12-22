@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to Bank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@bank.com"
+    name: "{cipher}2d75f644a2d217c624bd939ed5ac6a5a6d439243048f4aa05627c817553f66ba3f00ad8fb6dc0a2f4ff6c58d0bd2388e"
+    email: "{cipher}6e38901a97db2ce5d9f0425bcf5e52f8d9cf9c58a3b3f234a48fffed673dc924"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
