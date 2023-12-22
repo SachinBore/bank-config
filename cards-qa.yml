@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to Bank cards related QA APIs "
   contactDetails:
-    name: "Cherryl Pankaj - QA Lead"
-    email: "cherryl@bank.com"
+    name: "{cipher}c346b2749e889ebf46453bcf76bb4d2509993403ca5c637948fc026df9491258727d4b12b3c322fbd094f9ca5a962178"
+    email: "{cipher}43784afb74626ffa78edc3dab2f32a93d06a47cddf4ef5505913d294f330e3e7cbf2a9241b9fc991abc300781a267930"
   onCallSupport:
     - (310) 875-4367
     - (201) 236-1267
