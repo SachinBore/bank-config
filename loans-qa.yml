@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to Bank loans related QA APIs "
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
-    email: "cyrano@bank.com"
+    name: "{cipher}c8cbd24b8756bb800b21710302b3c050da06e34fc6eed3c340326e20192b0185f165850f504b4cd1ce626f2385bc5190"
+    email: "{cipher}20ce71d7c788ff048c6007b288c9d6056157e582355cd00ff4326636f9f4e189"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467
