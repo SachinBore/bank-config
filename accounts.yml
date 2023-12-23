@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related dcoker APIs "
+  message: "Welcome to Bank accounts related local APIs "
   contactDetails:
     name: "{cipher}afc5b766767ee3453a1115d0074eff11cf436264222dd58452eca21bc76010f08e2a94a43c2a0f1b675e7541e6f62367"
     email: "{cipher}9aa119d9b865a8c2a6082314d33641418fbcf73635dfd0f1887e24aa31b37a10"
