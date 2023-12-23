@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related docker APIs "
+  message: "Welcome to Bank cards related prod APIs "
   contactDetails:
     name: "{cipher}75591885c5d0061f755b323fd07bab3f227302a12a8fe241b06852c034d8f554d2883666f0244ba9c8f02a9bc9bc8c19"
     email: "{cipher}70c5c3c2f71bb8aa44350bdb8e22333362768aa24c0c455fa8df3ba8712f1086"
